@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { ASSETS } from '../constants';
-import { PresentationStep } from '../App';
+import { ASSETS } from '../constants.tsx';
+import { PresentationStep } from '../App.tsx';
 
 interface BrandingBarProps {
   step: PresentationStep;
