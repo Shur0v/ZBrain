@@ -1,9 +1,9 @@
 
 import React, { useState, useEffect } from 'react';
-import { TitleSection } from './components/TitleSection.tsx';
-import { ArchitectureHero } from './components/ArchitectureHero.tsx';
-import { BrandingBar } from './components/BrandingBar.tsx';
-import { BackgroundLayer } from './components/BackgroundLayer.tsx';
+import { TitleSection } from './components/TitleSection';
+import { ArchitectureHero } from './components/ArchitectureHero';
+import { BrandingBar } from './components/BrandingBar';
+import { BackgroundLayer } from './components/BackgroundLayer';
 
 export type PresentationStep = 0 | 1 | 2;
 
